@@ -6,7 +6,8 @@ Make writing common codes more enjoyable
 This repository contains file templates to use in Android Studio. Thanks to file templates, you can start with some boilerplate code to build custom and  advanced functionalities more easily.
 
 ## Now contains
-* RecyclerViewAdapter with OnClickHandler and ViewHolder configured[^1]
+* RecyclerViewAdapter with OnClickHandler and ViewHolder configured[1]
+* Very simple NetworkUtils to make http queries
 * More to come.
 
 ## How to set up
@@ -29,4 +30,4 @@ This repository contains file templates to use in Android Studio. Thanks to file
 
 Pull requests are welcome for new templates  and changes in the current templates.
 
-[^1]: The template for  RecyclerView adapter is borrowed  from [exercises for Udacity Android Developer Challenge Course](https://github.com/monatis/ud851-Exercises) and updated with new methods and helpful hints.
+[1]: The template for  RecyclerView adapter is borrowed  from [exercises for Udacity Android Developer Challenge Course](https://github.com/monatis/ud851-Exercises) and updated with new methods and helpful hints.
