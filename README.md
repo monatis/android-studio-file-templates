@@ -10,6 +10,7 @@ This repository contains file templates to use in Android Studio. Thanks to file
 * Very simple NetworkUtils to make http queries
 * PackageManagerUtils to get the SHA1 fingerprint and send it in a custom header for restricted API servers
 * PermissionUtils to check if a permission is granted and request it otherwise
+* ApiSingleton to provide a singleton for API interaction and caching
 * More to come.
 
 ## How to set up
